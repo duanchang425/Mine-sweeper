@@ -1,4 +1,4 @@
-﻿当前为中文版，[英文版](./READMEenglish,md)
+﻿当前为中文版，[英文版](./READMEenglish.md)
 
 # 一个c++编写的扫雷游戏
 
